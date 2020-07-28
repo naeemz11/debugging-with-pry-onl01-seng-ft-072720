@@ -4,3 +4,4 @@ def plus_two(num)
 	
 end
 
+num= 3
